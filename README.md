@@ -9,9 +9,9 @@ Welcome to my GitHub profile! I'm a passionate **Frontend Developer** who enjoys
 - 🌱 Always learning and improving my skills
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhammadkuswari&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadkuswari&layout=compact&theme=radical)
 
 ## 🛠️ Technologies & Tools
 - **Frontend:** Vue.js, React.js, PrimeVue, Blade, jQuery, SCSS, TailwindCSS

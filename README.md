@@ -1,5 +1,5 @@
 # 💫 About Me:
-### Hi there! I'm Muhammad Kuswari 👋<br><br>I'm a passionate Frontend Developer specializing in building high-quality Web and Mobile apps using **React** and **TypeScript**. I love creating seamless user experiences and writing clean, maintainable code.<br><br>- 🔭 I’m currently working on: **PT. Castellum Digital Indonesia**<br>- 🌱 I’m currently learning: **Flutter & NestJS for Backend systems**<br>- 👯 I’m looking to collaborate on: **Open Source React libraries**<br>- 💬 Ask me about: **React, React Native, Expo, NativeWind, & UI/UX Design**<br>- ⚡ Fun fact: **I can center a div, but I prefer Flexbox!**
+Hi there! I'm Muhammad Kuswari 👋<br><br>I'm a passionate Frontend Developer specializing in building high-quality Web and Mobile apps using **React** and **TypeScript**. I love creating seamless user experiences and writing clean, maintainable code.<br><br>- 🔭 I’m currently working on: **PT. Castellum Digital Indonesia**<br>- 🌱 I’m currently learning: **Flutter & NestJS for Backend systems**<br>- 👯 I’m looking to collaborate on: **Open Source React libraries**<br>- 💬 Ask me about: **React, React Native, Expo, NativeWind, & UI/UX Design**<br>- ⚡ Fun fact: **I can center a div, but I prefer Flexbox!**
 
 
 ## 🌐 Socials:
